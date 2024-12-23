@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item .nav-link {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav {
+    margin-left: 270px;
+
+}
+
+.nav-item {
+    padding-right: 30px;
+}
+
+.sec1 {
+    height: 575px;
+    width: auto;
+    background-color: #4b34c131;
+}
+
+.para1 {
+    margin-top: 30px;
+    /* margin-left: 55px; */
+    font-size: large;
+    font-weight: 400;
+}
+
+.h1 {
+    margin-top: 150px;
+    /* margin-left: 55px; */
+}
+
+.navbar {
+    background-color: #1e1753e8;
+}
+
+.logo {
+    margin-left: 25px;
+    height: 48px;
+}
+
+.firstimg {
+    height: 561px;
+    margin: 14px;
+}
+
+.sec2 {
+    margin-top: 60px;
+    height: 250px;
+    
+}
+
+.cardg1 {
+    text-align: center;
+
+}
+
+.cardsg1 {
+    text-align: center;
+}
+
+.cardc1 {
+    text-align: center;
+}
+
+.sec3 {
+    height: 400px;
+    
+    margin-top: 40px;
+}
+
+.abtus {
+    font-size: 45px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.sec4 {
+    /* background-color: lightblue; */
+    height: 750px;
+}
+
+.card-title {
+    color: rgb(32, 17, 87);
+}
+
+.card-text {
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.card {
+
+    box-shadow: inset;
+    margin-left: 55px;
+}
+
+h1 {
+    text-shadow: gray;
+    font-weight: 700;
+}
+
+.btn-primary {
+    margin-left: 90px;
+}
+
+.s2 {
+    height: 940px;
+}
